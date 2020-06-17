@@ -1,0 +1,16 @@
+C:\Users\Raskolnikov\Desktop\Michał.Jackowski\Sequential covering algorithm\Sequential covering algorithm\bin\Debug\netcoreapp3.1\Sequential covering algorithm.exe
+C:\Users\Raskolnikov\Desktop\Michał.Jackowski\Sequential covering algorithm\Sequential covering algorithm\bin\Debug\netcoreapp3.1\Sequential covering algorithm.deps.json
+C:\Users\Raskolnikov\Desktop\Michał.Jackowski\Sequential covering algorithm\Sequential covering algorithm\bin\Debug\netcoreapp3.1\Sequential covering algorithm.runtimeconfig.json
+C:\Users\Raskolnikov\Desktop\Michał.Jackowski\Sequential covering algorithm\Sequential covering algorithm\bin\Debug\netcoreapp3.1\Sequential covering algorithm.runtimeconfig.dev.json
+C:\Users\Raskolnikov\Desktop\Michał.Jackowski\Sequential covering algorithm\Sequential covering algorithm\bin\Debug\netcoreapp3.1\Sequential covering algorithm.dll
+C:\Users\Raskolnikov\Desktop\Michał.Jackowski\Sequential covering algorithm\Sequential covering algorithm\bin\Debug\netcoreapp3.1\Sequential covering algorithm.pdb
+C:\Users\Raskolnikov\Desktop\Michał.Jackowski\Sequential covering algorithm\Sequential covering algorithm\obj\Debug\netcoreapp3.1\Sequential covering algorithm.csprojAssemblyReference.cache
+C:\Users\Raskolnikov\Desktop\Michał.Jackowski\Sequential covering algorithm\Sequential covering algorithm\obj\Debug\netcoreapp3.1\Sequential covering algorithm.AssemblyInfoInputs.cache
+C:\Users\Raskolnikov\Desktop\Michał.Jackowski\Sequential covering algorithm\Sequential covering algorithm\obj\Debug\netcoreapp3.1\Sequential covering algorithm.AssemblyInfo.cs
+C:\Users\Raskolnikov\Desktop\Michał.Jackowski\Sequential covering algorithm\Sequential covering algorithm\obj\Debug\netcoreapp3.1\Sequential covering algorithm.dll
+C:\Users\Raskolnikov\Desktop\Michał.Jackowski\Sequential covering algorithm\Sequential covering algorithm\obj\Debug\netcoreapp3.1\Sequential covering algorithm.pdb
+C:\Users\Raskolnikov\Desktop\Michał.Jackowski\Sequential covering algorithm\Sequential covering algorithm\obj\Debug\netcoreapp3.1\Sequential covering algorithm.genruntimeconfig.cache
+C:\Users\Raskolnikov\Desktop\Michał.Jackowski\Sequential covering algorithm\Sequential covering algorithm\obj\Debug\netcoreapp3.1\Sequential covering algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Raskolnikov\Desktop\Michał.Jackowski\Sequential covering algorithm\Sequential covering algorithm\bin\Debug\netcoreapp3.1\Combinatorics.dll
+C:\Users\Raskolnikov\Desktop\Michał.Jackowski\Sequential covering algorithm\Sequential covering algorithm\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\Raskolnikov\Desktop\Michał.Jackowski\Sequential covering algorithm\Sequential covering algorithm\obj\Debug\netcoreapp3.1\Sequential covering algorithm.csproj.CopyComplete

@@ -1,0 +1,6 @@
+Obiekt testowy		Ukryta decyzja eksperta		Decyzja naszego klasyfikatora
+X1				4				2
+X2				2				2
+X3				4				4
+X4				2				4
+X5								4

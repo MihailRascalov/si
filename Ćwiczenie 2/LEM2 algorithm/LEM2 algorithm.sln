@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LEM2 algorithm", "LEM2 algorithm\LEM2 algorithm.csproj", "{422AA1D4-894E-46ED-A3BB-922487306D24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{422AA1D4-894E-46ED-A3BB-922487306D24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{422AA1D4-894E-46ED-A3BB-922487306D24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{422AA1D4-894E-46ED-A3BB-922487306D24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{422AA1D4-894E-46ED-A3BB-922487306D24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1897DA46-E955-471A-B245-34BB189C54FB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+D:\STUDIA OBECNY SEMESTR\SZTUCZNA INTELIGENCJA\ZADANIA\Ćwiczenie 5\Michał_Jackowski\k-NN\k-NN\bin\Debug\k-NN.exe.config
+D:\STUDIA OBECNY SEMESTR\SZTUCZNA INTELIGENCJA\ZADANIA\Ćwiczenie 5\Michał_Jackowski\k-NN\k-NN\bin\Debug\k-NN.exe
+D:\STUDIA OBECNY SEMESTR\SZTUCZNA INTELIGENCJA\ZADANIA\Ćwiczenie 5\Michał_Jackowski\k-NN\k-NN\bin\Debug\k-NN.pdb
+D:\STUDIA OBECNY SEMESTR\SZTUCZNA INTELIGENCJA\ZADANIA\Ćwiczenie 5\Michał_Jackowski\k-NN\k-NN\obj\Debug\k-NN.csprojAssemblyReference.cache
+D:\STUDIA OBECNY SEMESTR\SZTUCZNA INTELIGENCJA\ZADANIA\Ćwiczenie 5\Michał_Jackowski\k-NN\k-NN\obj\Debug\k_NN.kNN.resources
+D:\STUDIA OBECNY SEMESTR\SZTUCZNA INTELIGENCJA\ZADANIA\Ćwiczenie 5\Michał_Jackowski\k-NN\k-NN\obj\Debug\k_NN.Form2.resources
+D:\STUDIA OBECNY SEMESTR\SZTUCZNA INTELIGENCJA\ZADANIA\Ćwiczenie 5\Michał_Jackowski\k-NN\k-NN\obj\Debug\k_NN.Properties.Resources.resources
+D:\STUDIA OBECNY SEMESTR\SZTUCZNA INTELIGENCJA\ZADANIA\Ćwiczenie 5\Michał_Jackowski\k-NN\k-NN\obj\Debug\k-NN.csproj.GenerateResource.cache
+D:\STUDIA OBECNY SEMESTR\SZTUCZNA INTELIGENCJA\ZADANIA\Ćwiczenie 5\Michał_Jackowski\k-NN\k-NN\obj\Debug\k-NN.csproj.CoreCompileInputs.cache
+D:\STUDIA OBECNY SEMESTR\SZTUCZNA INTELIGENCJA\ZADANIA\Ćwiczenie 5\Michał_Jackowski\k-NN\k-NN\obj\Debug\k-NN.exe
+D:\STUDIA OBECNY SEMESTR\SZTUCZNA INTELIGENCJA\ZADANIA\Ćwiczenie 5\Michał_Jackowski\k-NN\k-NN\obj\Debug\k-NN.pdb

@@ -1,0 +1,13 @@
+C:\Users\Raskolnikov\Desktop\Naive Bayes classifier\Naive Bayes classifier\obj\Debug\netcoreapp3.1\Naive Bayes classifier.csprojAssemblyReference.cache
+C:\Users\Raskolnikov\Desktop\Naive Bayes classifier\Naive Bayes classifier\obj\Debug\netcoreapp3.1\Naive Bayes classifier.csproj.CoreCompileInputs.cache
+C:\Users\Raskolnikov\Desktop\Naive Bayes classifier\Naive Bayes classifier\obj\Debug\netcoreapp3.1\Naive Bayes classifier.AssemblyInfoInputs.cache
+C:\Users\Raskolnikov\Desktop\Naive Bayes classifier\Naive Bayes classifier\obj\Debug\netcoreapp3.1\Naive Bayes classifier.AssemblyInfo.cs
+C:\Users\Raskolnikov\Desktop\Naive Bayes classifier\Naive Bayes classifier\bin\Debug\netcoreapp3.1\Naive Bayes classifier.exe
+C:\Users\Raskolnikov\Desktop\Naive Bayes classifier\Naive Bayes classifier\bin\Debug\netcoreapp3.1\Naive Bayes classifier.deps.json
+C:\Users\Raskolnikov\Desktop\Naive Bayes classifier\Naive Bayes classifier\bin\Debug\netcoreapp3.1\Naive Bayes classifier.runtimeconfig.json
+C:\Users\Raskolnikov\Desktop\Naive Bayes classifier\Naive Bayes classifier\bin\Debug\netcoreapp3.1\Naive Bayes classifier.runtimeconfig.dev.json
+C:\Users\Raskolnikov\Desktop\Naive Bayes classifier\Naive Bayes classifier\bin\Debug\netcoreapp3.1\Naive Bayes classifier.dll
+C:\Users\Raskolnikov\Desktop\Naive Bayes classifier\Naive Bayes classifier\bin\Debug\netcoreapp3.1\Naive Bayes classifier.pdb
+C:\Users\Raskolnikov\Desktop\Naive Bayes classifier\Naive Bayes classifier\obj\Debug\netcoreapp3.1\Naive Bayes classifier.dll
+C:\Users\Raskolnikov\Desktop\Naive Bayes classifier\Naive Bayes classifier\obj\Debug\netcoreapp3.1\Naive Bayes classifier.pdb
+C:\Users\Raskolnikov\Desktop\Naive Bayes classifier\Naive Bayes classifier\obj\Debug\netcoreapp3.1\Naive Bayes classifier.genruntimeconfig.cache
